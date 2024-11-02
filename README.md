@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Boateng Prince Agyenim.
 - 👀 I’m interested in ... App Development, Data Science, Web Development and Cyber Security.
-- 🌱 I’m currently learning ... C++, Database, Python, Javascript
+- 🌱 I’m currently learning ... C++, Database, Python, Javascript, Java
 - 💞️ I’m looking to collaborate on ... Web Apps and Web Developments
 - 📫 How to reach me ... Phone Number: +233599670295. email: isbbydior@gmail.com
 - 😄 Pronouns: ... He / Him.
