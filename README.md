@@ -30,10 +30,6 @@
 - **Phone:** +233599670295  
 - **Email:** [isbbydior@gmail.com](mailto:isbbydior@gmail.com)
 
----
-
-## 😄 Pronouns
-*He / Him*
 
 ---
 
