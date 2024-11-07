@@ -52,6 +52,6 @@ Feel free to drop a message! ✉️
 
 ```plaintext
 Frontend: HTML, CSS, JavaScript, React.js, Sass, Tailwind CSS
-Backend: Node.js, Express.js
+Backend: Node.js, Express.js, Pyhton, Java
 Version Control: Git, GitHub
 Design: Figma, Adobe XD
