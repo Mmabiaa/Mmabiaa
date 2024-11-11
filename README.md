@@ -19,7 +19,7 @@ I am currently in my **second year** of Computer Science at [University Name]. I
 
 Here is a link to my **portfolio** website where you can explore my latest projects, get to know more about me, and see what I've been working on:
 
-[👨‍💻 Mmabiaa's Portfolio](https://mmabiaa.github.io/my-portfolio-website/)
+[👨‍💻 Mmabiaa's Portfolio](https://my-portfolio-website-ten-plum.vercel.app/)
 
 ---
 
