@@ -1,57 +1,22 @@
-# Hello, I'm [Prince Agyenim Boateng](https://github.com/mmabiaa) 👨‍💻
 
-Welcome to my GitHub profile! I am a passionate **Computer Science** student and **Front-End Developer**. I'm constantly exploring new technologies, building my skills, and working on exciting web projects. My journey is fueled by curiosity and a love for crafting beautiful and user-friendly websites. 🚀
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mmabiaa) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_mmabiaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mmabiaa) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mmabiaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mmabiaa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmabiaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 About Me
-
-I am currently in my **second year** of Computer Science at [University Name]. I enjoy solving problems and learning new technologies. My main focus is front-end development, and I have experience with HTML, CSS, JavaScript, and various front-end frameworks. I'm also exploring back-end development to become a full-stack developer in the future!
-
-- 🛠️ **Skills**: Python, HTML, CSS, JavaScript, React, Node.js, Git, and more.
-- 🎯 **Currently learning**: Advanced JavaScript, Machine Learning, Software Development frameworks.
-- 📚 **Education**: BSc in Computer Science | [University of Mines and Technology, Tarkwa, Ghana](https://umat.edu.gh)
-- 💬 **Open to collaborations**: Yes, let's create something amazing together!
-
----
-
-## ✨ Portfolio
-
-Here is a link to my **portfolio** website where you can explore my latest projects, get to know more about me, and see what I've been working on:
-
-[👨‍💻 Mmabiaa's Portfolio](https://my-portfolio-website-ten-plum.vercel.app/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mmabiaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mmabiaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Projects
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mmabiaa) 
 
-Here are some of the projects I've worked on:
-
-- **[A Python TextPad](https://github.com/mmabiaa/textpad)**: A simple texpad built using python
-- **[A ChatBot](https://github.com/mmabiaa/chatbot)**: A simple chatbot built using python.
-- **[An ArtPad](https://github.com/mmabiaa/artpad)**: A simple artpad built using python.
-
-Feel free to check them out and give feedback or contribute! 🎉
-
----
-
-## 📬 Contact
-
-Let's connect! You can reach me through the following platforms:
-
-- **X**: [@mmabiaa](https://x.com/mmabiaa)
-- **LinkedIn**: [Prince Agyenim Boateng](https://www.linkedin.com/in/prince-agyenim-boateng-73a3b9313/)
-- **GitHub**: [mmabiaa](https://github.com/mmabiaa)
-- **Email**: [isbbydior@gmail.com](mailto:isbbydior@gmail.com)
-
-Feel free to drop a message! ✉️
-
----
-
-## 🛠️ Tools & Technologies I Use
-
-```plaintext
-Frontend: HTML, CSS, JavaScript, React.js, Sass, Tailwind CSS
-Backend: Node.js, Express.js, Pyhton, Java
-Version Control: Git, GitHub
-Design: Figma, Adobe XD
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
