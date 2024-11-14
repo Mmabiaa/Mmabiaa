@@ -1,4 +1,4 @@
-# Mmmabiaa🪖🖤
+# Mmabiaa🪖🖤
 ### Hello, I am Boateng Prince Agyenim🪖<br>Currently a Computer Science Student😎<br>I am willing to explore, learn and collaborate in the field of technology and <br>problem solving.❤️😊
 
 
