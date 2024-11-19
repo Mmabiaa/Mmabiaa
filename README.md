@@ -1,5 +1,5 @@
-# Mmabiaa🪖🖤
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+junior+developer;I+love+to+learn+and+explore;Developer;Python+Expert;Junior+Cybersecurity+Personel;Junior+Data+Analyst;Tech+Explorer)](https://git.io/typing-svg)
+## I'm Mmabiaa🪖🖤
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+junior+developer;I+love+to+learn+and+explore;Python+Expert;Junior+Cybersecurity+Personel;Junior+Data+Analyst;Tech+Explorer)](https://git.io/typing-svg)
 
 
 
