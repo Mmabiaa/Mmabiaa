@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+junior+developer🧑‍💻;I+love+to+learn+and+explore🔰;Aspiring+Python+Expert🐍;Junior+Cybersecurity+Personel🔐;Junior+Data+Scientist📃;Tech+Explorer🔦)](https://git.io/typing-svg)
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mmabiaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-agyenim-boateng-73a3b9313/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_mmabiaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mmabiaa) 
 
