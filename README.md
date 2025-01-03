@@ -1,5 +1,8 @@
 ## Hi There🙋‍♂️, I'm Mmabiaa🩶
 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Computer+Science+Student👨🏾‍💻%E2%9D%A4%EF%B8%8F;I+am+a+junior+developer🧑‍💻;I+love+to+learn+and+explore🔰;Aspiring+Python+Expert🐍;Junior+Cybersecurity+Personel🔐;Junior+Data+Scientist📃;Tech+Explorer🔦)](https://git.io/typing-svg)
+
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Computer+Science+Student👨🏾‍💻%E2%9D%A4%EF%B8%8F;I+am+a+junior+developer🧑‍💻;I+love+to+learn+and+explore🔰;Aspiring+Python+Expert🐍;Junior+Cybersecurity+Personel🔐;Junior+Data+Scientist📃;Tech+Explorer🔦)](https://git.io/typing-svg)
 
 ---
@@ -27,5 +30,4 @@
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mmabiaa) 
 
-  
-
+![](https://camo.githubusercontent.com/87fbe3abb84d5f5d6790f6ff595f7a889b3f3c0035f5beeafaef0d11042addfd/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f30333732366366393734313732343931643561333438643061633235313235622f74656e6f722e676966)
