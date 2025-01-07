@@ -17,7 +17,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mmabiaa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mmabiaa)](https://git.io/streak-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mmabiaa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmabiaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
