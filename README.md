@@ -1,7 +1,9 @@
-## Hi There🙋‍♂️, I'm Mmabiaa
+## Hello world🙋‍♂️, I'm Mmabiaa
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+BOATENG+PRINCE+AGYENIM;I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+junior+software+engineer🧑‍💻;I+love+to+learn+and+explore🔰)](https://git.io/typing-svg)<br>
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+Aspiring+Python+Expert🐍;I+am+a++Cybersecurity+Researcher🔐;I+am+a+Junior+Data+Scientist📃;I+am+a+Tech+Explorer🔦)](https://git.io/typing-svg)
+
+ ![](https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mmabiaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-agyenim-boateng-73a3b9313/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_mmabiaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mmabiaa) 
