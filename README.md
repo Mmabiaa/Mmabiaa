@@ -1,4 +1,4 @@
-## Hello world🙋‍♂️, I'm Mmabiaa
+## Mmabiaa
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+BOATENG+PRINCE+AGYENIM;I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+junior+software+engineer🧑‍💻;I+love+to+learn+and+explore🔰)](https://git.io/typing-svg)<br>
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+Aspiring+Python+Expert🐍;I+am+a++Cybersecurity+Researcher🔐;I+am+a+Junior+Data+Scientist📃;I+am+a+Tech+Explorer🔦)](https://git.io/typing-svg)
