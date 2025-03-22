@@ -6,8 +6,11 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+BOATENG+PRINCE+AGYENIM;I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+junior+software+engineer🧑‍💻;I+love+to+learn+and+explore🔰)](https://git.io/typing-svg)<br>
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+Aspiring+Python+Expert🐍;I+am+a++Cybersecurity+Researcher🔐;I+am+a+Junior+Data+Scientist📃;I+am+a+Tech+Explorer🔦)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+</div>
 
- ![](https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mmabiaa) 
@@ -159,9 +162,6 @@
 
 ## ![](https://komarev.com/ghpvc/?username=mmabiaa)
 
-![](https://camo.githubusercontent.com/0b2d305eb8f19b062556f077d9ac501cf17fd2a1ecb84eb47b649d656aa54ae0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656d4e796544566e5a6a52744f48566e65474d305a32777761324633627a566b4e6d39324d5852714d54566e59544978636d457962695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f676a72594477626a6e4b38783336785a494f2f67697068792e676966)
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mmabiaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mmabiaa&theme=vue-dark&hide_border=false)<br/>
@@ -176,7 +176,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mmabiaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div align="center">
+  <img src="https://camo.githubusercontent.com/0b2d305eb8f19b062556f077d9ac501cf17fd2a1ecb84eb47b649d656aa54ae0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656d4e796544566e5a6a52744f48566e65474d305a32777761324633627a566b4e6d39324d5852714d54566e59544978636d457962695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f676a72594477626a6e4b38783336785a494f2f67697068792e676966">
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mmabiaa) 
