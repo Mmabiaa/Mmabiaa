@@ -1,187 +1,198 @@
+# BOATENG PRINCE AGYENIM
 
+*Software Engineer | Technology Entrepreneur | AI/ML Specialist*
 
-## Hello World!
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+Kumasi, Ghana | +233 599 670 295 | mmaabiaa@gmail.com  
+[GitHub](https://github.com/mmabiaa) | [LinkedIn](https://linkedin.com/in/mmabiaa) | [Portfolio](https://mmabiaa.vercel.app)
 
+---
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+BOATENG+PRINCE+AGYENIM;I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+junior+software+engineer🧑‍💻;I+love+to+learn+and+explore🔰)](https://git.io/typing-svg)<br>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+Aspiring+Python+Expert🐍;I+am+a++Cybersecurity+Researcher🔐;I+am+a+Junior+Data+Scientist📃;I+am+a+Tech+Explorer🔦)](https://git.io/typing-svg)
-<div align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
-</div>
+## PROFESSIONAL SUMMARY
 
+Accomplished Software Engineer and Technology Entrepreneur with extensive expertise in full-stack web development, artificial intelligence implementation, and cybersecurity solutions. Founder and Chief Technology Officer of Tech-By-Mmabiaa, delivering enterprise-grade digital solutions to clients across multiple industries. Demonstrated proficiency in architecting scalable applications, leading cross-functional development teams, and mentoring emerging technology professionals. Distinguished track record of transforming complex technical challenges into innovative, user-centric solutions with measurable business impact.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mmabiaa) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-agyenim-boateng-73a3b9313/) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_mmabiaa) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mmabiaa) 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/0b2d305eb8f19b062556f077d9ac501cf17fd2a1ecb84eb47b649d656aa54ae0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578656d4e796544566e5a6a52744f48566e65474d305a32777761324633627a566b4e6d39324d5852714d54566e59544978636d457962695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f676a72594477626a6e4b38783336785a494f2f67697068792e676966">
-</div>
+---
 
+## CORE TECHNICAL COMPETENCIES
 
-##  💻 Tech Stack:
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="Gatsby" width="65" height="65" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="48" height="48" alt="Visual Studio Code" />
-      <br>VS Code
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="48" height="48" alt="Windows" />
-      <br>Windows
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="48" height="48" alt="Ubuntu" />
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" width="48" height="48" alt="Bitbucket" />
-      <br>Bitbucket
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="48" height="48" alt="yarn" />
-      <br>Yarn
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="48" height="48" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" width="48" height="48" alt="Wordpress" />
-      <br>Wordpress
-    </td>
-  </tr>
-</table>
+*Programming Languages & Frameworks:*
+- *Primary:* Python, TypeScript, JavaScript, C++, Java, SQL
+- *Frontend Technologies:* React.js, Next.js, Tailwind CSS, HTML5/CSS3, Vite.js
+- *Backend & API Development:* Node.js, Express.js, Flask, RESTful Architecture, GraphQL
 
+*Database & Cloud Infrastructure:*
+- *Database Systems:* Supabase, MongoDB, SQLite, PostgreSQL
+- *Cloud Platforms & DevOps:* Vercel, Docker, GitHub Actions, CI/CD Pipeline Implementation
+- *Version Control:* Git, GitHub, GitLab
 
-## ![](https://komarev.com/ghpvc/?username=mmabiaa)
+*Artificial Intelligence & Machine Learning:*
+- *AI Integration:* OpenAI API, GPT-4 Implementation, Natural Language Processing
+- *Automation Systems:* Workflow Automation, Chatbot Development, Intelligent Document Processing
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mmabiaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mmabiaa&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmabiaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+*Cybersecurity & Network Security:*
+- *Security Frameworks:* Ethical Hacking Methodologies, Penetration Testing
+- *Security Tools:* Vulnerability Assessment, Phishing Simulation, Network Auditing
 
+---
 
+## PROFESSIONAL EXPERIENCE
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mmabiaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Founder & Chief Technology Officer | Tech-By-Mmabiaa
+*January 2025 – Present | Kumasi, Ghana*
 
-![](https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif)
+- Established and scaled technology consulting firm specializing in enterprise web applications, AI integration, and digital transformation services
+- Lead strategic technology initiatives for clients across education, legal, and e-commerce sectors
+- Architect and deploy multi-tenant SaaS applications supporting concurrent user bases with real-time data processing capabilities
+- Direct technical mentorship programs, developing curriculum and training modules for 25+ junior developers across Ghana
+- Oversee complete project lifecycle management from initial client consultation through deployment, optimization, and ongoing maintenance
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mmabiaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+*Principal Projects & Solutions:*
 
+*GenZify AI Platform* | Lead Architect & Developer
+- Engineered comprehensive artificial intelligence suite integrating advanced writing assistance, automated code generation, data analytics, and voice processing capabilities
+- Implemented scalable microservices architecture supporting enterprise-level user authentication and data management
+- Developed custom AI workflow automation reducing client operational efficiency by an estimated 40%
 
-<div align="center">
-  <img  src="https://camo.githubusercontent.com/87fbe3abb84d5f5d6790f6ff595f7a889b3f3c0035f5beeafaef0d11042addfd/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f30333732366366393734313732343931643561333438643061633235313235622f74656e6f722e676966"  />
-</div>
+*Lawson AI Legal Technology Solution* | Technical Lead
+- Designed specialized legal technology platform utilizing natural language processing for automated legal document analysis and interpretation
+- Integrated machine learning algorithms for case law research and legal precedent identification
+- Collaborated with legal professionals to ensure compliance with industry standards and regulatory requirements
+
+*CodeScribe Documentation Platform* | Full-Stack Developer
+- Built intelligent document automation system leveraging OpenAI API for structured content generation and technical documentation
+- Implemented advanced template management system with customizable output formatting and version control integration
+
+*EduHub Academic Management System* | Lead Developer
+- Developed comprehensive campus management platform featuring GPA calculation engines, dynamic timetable management, and academic community networking tools
+- Designed responsive user interface supporting mobile and desktop platforms with offline capability
+
+### Frontend Developer | ASCES SRID Department, University of Mines and Technology
+*2024 – Present | Tarkwa, Ghana*
+
+- Developed and maintain official departmental website utilizing React.js framework and Tailwind CSS for responsive design implementation
+- Enhanced digital communication infrastructure for academic department serving 500+ students and faculty members
+- Implemented content management system enabling real-time updates for academic announcements, event scheduling, and resource sharing
+- Collaborated with university administration to establish web accessibility standards and optimize user experience metrics
+
+### Frontend Developer | Wigal Solutions
+*May 2025 – Present | University of Mines and Technology*
+
+- Engineer scalable web applications utilizing Next.js and React.js frameworks for enterprise client deployments
+- Implement performance optimization strategies including code splitting, lazy loading, and progressive web application features
+- Develop responsive design patterns ensuring cross-browser compatibility and mobile-first user experience
+
+---
+
+## TECHNICAL PROJECT PORTFOLIO
+
+### Security & Cybersecurity Solutions
+
+*Enterprise Security Assessment Platform* | Python, Flask, MongoDB
+- Architected comprehensive phishing simulation framework for organizational security awareness training programs
+- Developed advanced metrics dashboard providing detailed analytics on user behavior patterns and security vulnerability identification
+- Implemented automated campaign management system with customizable scenario generation and progress tracking
+
+*Network Security Audit Toolkit* | Python, Networking Protocols
+- Created professional-grade penetration testing suite for Wi-Fi network security assessment and vulnerability analysis
+- Integrated sophisticated network scanning capabilities with WPA/WPA2 handshake capture and analysis functionality
+- Designed ethical hacking framework compliant with industry cybersecurity testing standards
+
+### Web Application Development
+
+*Lunza Video Streaming Platform* | Full-Stack Development
+- Built scalable video streaming service featuring real-time chat integration, user account management, and content delivery optimization
+- Implemented adaptive bitrate streaming technology and content distribution network integration for global accessibility
+
+*Mediplus Electronic Health Records System* | PHP, MySQL, Healthcare IT
+- Designed comprehensive patient management system with appointment scheduling, medical record tracking, and provider communication tools
+- Ensured HIPAA compliance and implemented advanced data encryption for sensitive healthcare information protection
+
+*E-Commerce Frontend Application* | React.js, Authentication Systems
+- Developed feature-rich e-commerce user interface with advanced authentication, dynamic shopping cart functionality, and intelligent product filtering
+- Integrated payment gateway APIs and implemented inventory management system with real-time stock tracking
+
+---
+
+## EDUCATION
+
+*Bachelor of Science in Computer Science & Engineering*  
+University of Mines and Technology (UMaT), Tarkwa | Expected Graduation: 2027
+
+*Academic Focus Areas:*
+- Algorithm Design and Computational Complexity Analysis
+- Artificial Intelligence and Machine Learning Systems
+- Advanced Database Design and Management
+- Cybersecurity Principles and Network Security
+- Software Engineering Methodologies and Project Management
+- Computer Graphics and Human-Computer Interaction
+
+*Academic Involvement:*
+- Research Assistant: AI and Machine Learning Laboratory
+- Technology Mentorship Program Leader
+- Innovation Workshop Facilitator and Curriculum Developer
+
+---
+
+## PROFESSIONAL CERTIFICATIONS
+
+*Software Engineering & Development:*
+- Software Engineering Professional Certificate | HackerRank | 2025
+- React Frontend Development Certification | HackerRank | 2025
+- Advanced Python Programming Certification | HackerRank | 2024
+- Java Programming Professional Certificate | HackerRank | 2024
+- Database Management and SQL Optimization | HackerRank | 2024-2025
+
+*Academic Credentials:*
+- West African Senior School Certificate Examination (WASSCE) | WAEC | 2023
+
+---
+
+## LEADERSHIP & PROFESSIONAL DEVELOPMENT
+
+### Technical Education & Mentorship Leadership
+
+*Founder & Principal Educator | Tech-By-Mmabiaa Training Division*
+- Established comprehensive technical education program serving 25+ emerging developers across Ghana
+- Developed professional curriculum covering advanced React.js development, API integration, artificial intelligence implementation, and software engineering best practices
+- Conducted intensive workshops and mentorship sessions resulting in 90% job placement rate for program graduates
+
+*Senior Workshop Facilitator | STEMHUB Technology Initiative*
+- Design and deliver advanced technical workshops focusing on AI implementation, version control systems, and modern software engineering methodologies
+- Mentor university students and early-career professionals in career development and technical skill enhancement
+
+### Professional Publications & Thought Leadership
+
+*Contributing Technical Author*
+- "Mentorship & Humility in Technology Professional Development" | DEV Community & LinkedIn Professional Network
+- Regular contributor to open-source technology discussions and emerging trends in AI and software engineering
+
+---
+
+## PROFESSIONAL ACHIEVEMENTS & RECOGNITION
+
+### Technical Excellence Recognition
+- Successfully architected and deployed multiple production-level applications serving thousands of concurrent users
+- Maintained exceptional code quality standards with 40+ consecutive days of meaningful GitHub contributions and community engagement
+- *GitHub Professional Achievements:* Pull Shark Recognition (×3), Quickdraw Contributor, YOLO Committer, Expert Code Reviewer, Hyper Repository Creator
+
+### Academic & Industry Recognition
+- Recognized by University of Mines and Technology Computer Science faculty for outstanding technical leadership and innovative software engineering contributions
+- Selected for advanced research opportunities in artificial intelligence and machine learning applications
+
+### Entrepreneurial Success
+- Founded and scaled technology consulting firm generating measurable client value through innovative digital solutions
+- Established sustainable business model serving diverse industry sectors including education, legal services, and e-commerce
+
+---
+
+## LINGUISTIC PROFICIENCIES
+
+*English:* Professional Working Proficiency (Primary Business Language)  
+*Twi (Akan):* Native Speaker  
+*French:* Conversational Level
+
+---
+
+## PROFESSIONAL REFERENCES
+
+Comprehensive professional references and detailed project portfolios available upon request.
