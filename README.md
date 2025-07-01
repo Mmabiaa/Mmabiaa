@@ -1,6 +1,6 @@
 # BOATENG PRINCE AGYENIM
 
-*Software Engineer | Technology Entrepreneur | AI/ML Specialist*
+*Software Engineer | Technology Entrepreneur | AI/ML Specialist | Cybersecurity Professional*
 
 Kumasi, Ghana | +233 599 670 295 | mmaabiaa@gmail.com  
 [GitHub](https://github.com/mmabiaa) | [LinkedIn](https://linkedin.com/in/mmabiaa) | [Portfolio](https://mmabiaa.vercel.app)
