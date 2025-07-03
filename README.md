@@ -4,7 +4,6 @@
 
 Kumasi, Ghana | <a href="tel:+233599670295">+233 599 670 295</a> | mmaabiaa@gmail.com  
 [GitHub](https://github.com/mmabiaa) | [LinkedIn](https://linkedin.com/in/mmabiaa) | [Portfolio](https://mmabiaa.vercel.app)
-
 ---
 
 ## PROFESSIONAL SUMMARY
