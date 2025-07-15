@@ -11,8 +11,15 @@ Kumasi, Ghana | <a href="tel:+233599670295">+233 599 670 295</a> | mmaabiaa@gmai
 Accomplished Software Engineer and Technology Entrepreneur with extensive expertise in full-stack web development, artificial intelligence implementation, and cybersecurity solutions. Founder and Chief Technology Officer of Tech-By-Mmabiaa, delivering enterprise-grade digital solutions to clients across multiple industries. Demonstrated proficiency in architecting scalable applications, leading cross-functional development teams, and mentoring emerging technology professionals. Distinguished track record of transforming complex technical challenges into innovative, user-centric solutions with measurable business impact.
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mmabiaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mmabiaa&theme=vue-dark&hide_border=false)<br/>
+
+
+
 
 ## CORE TECHNICAL COMPETENCIES
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmabiaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 *Programming Languages & Frameworks:*
 - *Primary:* Python, TypeScript, JavaScript, C++, Java, SQL
@@ -52,14 +59,14 @@ Accomplished Software Engineer and Technology Entrepreneur with extensive expert
 - Implemented scalable microservices architecture supporting enterprise-level user authentication and data management
 - Developed custom AI workflow automation reducing client operational efficiency by an estimated 40%
 
-*Lawson AI Legal Technology Solution* | Technical Lead
-- Designed specialized legal technology platform utilizing natural language processing for automated legal document analysis and interpretation
-- Integrated machine learning algorithms for case law research and legal precedent identification
-- Collaborated with legal professionals to ensure compliance with industry standards and regulatory requirements
+*Mmabiaa-Cares NGO Foundation* | Technical Lead & Developer
+- Developed a web platform to support outreach and donations for the needy  
+- Designed tools to manage beneficiary data, donation tracking, and community engagement  
+- Collaborated with volunteers and partners to ensure transparency and local impact 
 
-*CodeScribe Documentation Platform* | Full-Stack Developer
-- Built intelligent document automation system leveraging OpenAI API for structured content generation and technical documentation
-- Implemented advanced template management system with customizable output formatting and version control integration
+*AgroBridge Agricultural Platform* | Full-Stack Developer  
+- Built a smart web platform to support farmers, buyers, and NGOs with AI-powered tools  
+- Integrated crop monitoring, predictive analytics, and a trusted produce marketplace using modern web technologies  
 
 *EduHub Academic Management System* | Lead Developer
 - Developed comprehensive campus management platform featuring GPA calculation engines, dynamic timetable management, and academic community networking tools
@@ -145,6 +152,10 @@ University of Mines and Technology (UMaT), Tarkwa | Expected Graduation: 2027
 - West African Senior School Certificate Examination (WASSCE) | WAEC | 2023
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mmabiaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif)
 
 ## LEADERSHIP & PROFESSIONAL DEVELOPMENT
 
@@ -191,6 +202,9 @@ University of Mines and Technology (UMaT), Tarkwa | Expected Graduation: 2027
 *French:* Conversational Level
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mmabiaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ## PROFESSIONAL REFERENCES
 
