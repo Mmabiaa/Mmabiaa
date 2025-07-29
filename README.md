@@ -11,7 +11,6 @@
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </div>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mmabiaa) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-agyenim-boateng-73a3b9313/) 
