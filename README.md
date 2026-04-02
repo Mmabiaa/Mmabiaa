@@ -1,16 +1,9 @@
 
-## Hello World!
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+## Boateng Prince Agyenim
 
 ## About Me🙏🏾
-
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+BOATENG+PRINCE+AGYENIM;I+am+Computer+Science+Student%E2%9D%A4%EF%B8%8F;I+am+a+junior+software+engineer🧑‍💻;I+love+to+learn+and+explore🔰)](https://git.io/typing-svg)<br>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+an+Aspiring+Python+Expert🐍;I+am+a++Cybersecurity+Researcher🔐;I+am+a+Junior+Data+Scientist📃;I+am+a+Tech+Explorer🔦)](https://git.io/typing-svg)
-<div align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
-</div>
+Full-stack engineer and AI systems builder. I design infrastructure that scales and build intelligent systems that ship. Open to high-impact roles and research collaborations.
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mmabiaa) 
@@ -170,15 +163,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mmabiaa&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mmabiaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mmabiaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mmabiaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <div align="center">
