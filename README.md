@@ -2,7 +2,7 @@
 ## Boateng Prince Agyenim
 
 ## About Me🙏🏾
-Full-stack engineer and AI systems builder. I design infrastructure that scales and build intelligent systems that ship. Open to high-impact roles and research collaborations.
+Full-stack software engineer and AI systems builder. I design infrastructure that scales and build intelligent systems that ship. Open to high-impact roles and research collaborations.
  
 
 ## 🌐 Socials:
